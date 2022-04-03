@@ -1,0 +1,264 @@
+{
+  "regions": [
+    {
+      "id": "kyiv-reg",
+      "title": "Киiвська обл"
+    },
+    {
+      "id": "lviv-reg",
+      "title": "Львiвська обл"
+    },
+    {
+      "id": "sumy-reg",
+      "title": "Сумська обл"
+    }
+  ],
+  "towns": [
+    {
+      "id": "kyiv-reg",
+      "towns": [
+        {
+          "id": "kyiv",
+          "title": "м.Киiв",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        },
+        {
+          "id": "makhariv",
+          "title": "смт.Макарiв",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        },
+        {
+          "id": "irpin",
+          "title": "м.Iрпiнь",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        },
+        {
+          "id": "fastiv",
+          "title": "м.Фастiв",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lviv-reg",
+      "towns": [
+        {
+          "id": "lviv",
+          "title": "м.Львiв",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        },
+        {
+          "id": "drohobich",
+          "title": "м.Дрогобич",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        },
+        {
+          "id": "stryi",
+          "title": "м.Стрий",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sumy-reg",
+      "towns": [
+        {
+          "id": "sumy",
+          "title": "м.Суми",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        },
+        {
+          "id": "trostianec",
+          "title": "м.Тростянець",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        },
+        {
+          "id": "akhtyrka",
+          "title": "м.Ахтирка",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        },
+        {
+          "id": "sumy-town",
+          "title": "м.Фастiв",
+          "markets": [
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            },
+            {
+              "id": 1,
+              "name": "ATB",
+              "adress": "ul. Baseynaya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
